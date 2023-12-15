@@ -1,0 +1,58 @@
+What is Power BI?
+
+ Power BI is a robust business intelligence (BI) platform developed by Microsoft. It empowers non-technical business professionals together, analyze, visualize, 
+and share data effectively. This tool has gained immense popularity due to its user-friendly interface and seamless integration with other Microsoft applications.
+
+Power BI offers cloud-based services for interactive visualizations with a simple interface for end users to create their reports and dashboards. 
+It is one of the most widely used BI tools. Power BI allows users to connect to various data sources, create customized data models, and build interactive 
+dashboards and reports.
+
+Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and 
+interactive insights. Your data might be an Excel spreadsheet or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect to
+your data sources, visualize and discover what's important, and share that with anyone or everyone you want.
+
+Different Power BI versions like Desktop, Service-based (SaaS), and mobile Power BI apps are used for different platforms. It provides multiple software
+connectors and services for business intelligence.
+
+
+Why do we use Power BI?
+
+-Pre-built dashboards and reports for SaaS Solutions
+-Power BI allows real-time dashboard updates. – It means once you create a report using the push semantic model, you can pin any of the report visuals to a dashboard. On that dashboard, visuals update in real-time whenever the data is updated. Within the Power BI service, the dashboard triggers a tile refresh every time new data is received.
+-Offers Secure and reliable connection to your data sources in the cloud or on-premises
+-Power BI offers Quick deployment, hybrid configuration, and a secure environment.
+-Allows data exploration using natural language query
+-Offers feature for dashboard visualization regularly updated with the community.
+
+
+The Versions of Power BI
+·     Power BI Desktop
+·     Power BI service
+·     Power BI Mobile Apps
+ 
+
+Power BI Desktop :
+
+Power BI Desktop is the primary authoring and publishing tool for Power BI Developers and power users use it to create brand-new models and reports from scratch.
+
+Power BI Desktop - Costs: Free
+
+Power BI service:
+
+Online Software as a Service (SaaS) where Power Bl data models, reports, and dashboards are hosted. Administration, sharing, and collaboration happen in the cloud.
+
+Pro license: $10/user/month
+
+Power BI Mobile Apps:
+
+The Power BI mobile app is available for iOS, Android, and Windows. It can be managed using Microsoft Intune. 
+You can use this tool to view reports and dashboards on the Power Bl Service Report Server.
+
+
+Who uses Power BI?
+-Project management office (PMO) – Project and Portfolio Manager.
+-Business & Data Analyst
+-Developer & Database Administrator
+-IT Team, IT Professional
+-Consumer for End User Report
+-Data Scientist
