@@ -1,0 +1,30 @@
+What is DAX Function?
+
+Data Analysis Expressions (DAX) is a formula expression language used in Analysis Services, Power BI, and Power Pivot in Excel. It is also known as a functional language, where the full code is kept inside a function.
+DAX supports many data types. DAX formulas include functions, operators, and values to perform advanced calculations and queries on data in related tables and columns in Tabular models. 
+DAX helps you create new information from data already in your model(i.e. Data).
+
+What is a tabular model?
+A Tabular model is a set of metadata like tables, relationships, measures, KPIs, calculation groups, hierarchies, translations, security roles, and many other elements that form the “semantic model” used to 
+provide a navigation system in client tools like Power BI and Excel reports.
+
+Who Developed DAX?
+it is a language developed by Microsoft to interact with data in a variety of platforms like Power BI, and Power Pivot.
+
+Why is DAX so important?
+It’s easy to create a workbook and import some data into it. You can even create PivotTables or Pivot Charts that display important information without using any DAX formulas.
+But, what if you need to analyze critical sales data across several product categories and for different date ranges? Or, do you need to combine important inventory data from several tables 
+in different data sources? DAX formulas provide this capability and many other important capabilities as well. Learning how to create effective DAX formulas will help you get the most out of your data. 
+When you get the information you need, you can begin to solve real business problems that affect your bottom line. This is Business Intelligence, and DAX will help you get there.
+
+Learning DAX will open up a new world of Power BI for you. The most important feature you will unlock is being able to select, join, filter,… data in a dynamic way. This means that 
+the dashboard can take input from the users and use it to dynamically generate calculated columns, measures, and tables.
+
+Why We Use DAX In Power BI?
+Data Analysis Expressions (DAX) is a formula expression language used in Power BI to manipulate, and analyze data from different sources, create new calculated columns, and measures, and 
+perform complex calculations and analyses.
+
+
+Similarities between Excel Functions and DAX Functions:
+Certain DAX functions have the same name and the same general behavior as Excel functions.
+DAX has lookup functions that are similar to the array and vector lookup functions in Excel.
