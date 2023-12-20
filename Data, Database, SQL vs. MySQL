@@ -1,0 +1,90 @@
+ What Is a Database?
+
+ 
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system. 
+A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that 
+are associated with them, are referred to as a database system, often shortened to just a database.
+
+
+The main purpose of the database is to operate a large amount of information by storing, retrieving, and managing data.
+
+
+There are many dynamic websites on the World Wide Web nowadays which are handled through databases. For example, a model that checks the
+availability of rooms in a hotel. It is an example of a dynamic website that uses a database.
+
+
+Database can be considered as a container filled with data or information which is an Electronic store in a computer system. Data in any form can be
+stored in the database the purpose of storing the data in the database is so it can be easily
+
+ Accessed,
+
+ Modified,
+
+ Protected,
+
+ Analysed.
+
+ You may already use databases in a day-to-day activity because most of the websites or mobile applications today such as Google, Instagram,
+WhatsApp, Facebook already use databases.
+
+What is Data?
+
+Data is a collection of small units of information.
+
+ 
+The word 'Data' originated from the word 'datum' which means 'single piece of information.' It is the plural of the word datum.
+
+
+Data can be anything and everything any information of fact can be considered as data. Your name, age, date of birth or
+any other information such as your house address, your bank balance the vehicle you drive or even the food that you eat can be considered as 
+data details related to school technology or statistics or even mathematics can be considered as data and can be stored into a database. 
+Data can be in any form such as an image, video, file, or even plain text. Data in any of these formats can be stored in a database.
+
+For a school, data can be details related to its teachers or its students or the subjects they teach all of these can be data as you can 
+see data can be anything and everything and data can be any form now that you know what data is it's time to understand where do we store them 
+and the purpose of storing them.
+
+ 
+
+ 
+
+SQL vs. MySQL
+
+SQL and MySQL are used to program and manage relational databases.
+
+SQL and MySQL are database-related languages. While SQL is a programming language used to work with data in relational databases, MySQL is an open-source database product that implements the SQL standard. MySQL is generally faster and more efficient than other relational database management systems (RDBMS), so it is often the preferred choice for applications that require high performance.
+
+
+What is SQL? 
+
+SQL stands for Structured Query Language, designed specifically for interacting with relational databases. SQL is a language for
+storing,
+manipulating, 
+and retrieving data in relational database management systems. You can use the SQL language to modify and create tables in the 
+database, insert new data, modify existing data, delete data from the tables, and query those tables for specific information.
+
+SQL is the preferred language for most relational database management systems, including Oracle, MySQL, PostgreSQL, Microsoft SQL Server, and IBM DB2.
+
+IBM developed SQL in the late 1970s. It has been standardized since 1986 by ANSI (American National Standards Institute). Many other vendors have
+implemented their versions of SQL that are compatible with each other and are like dialects of SQL.
+
+ 
+
+What is Dialect?
+
+A dialect refers to a branch of a language. Within this branch, different terms are used for different things.
+
+ 
+
+What is MySQL? 
+
+MySQL is a relational database management system. You use it to store data in tables, and the rows of those tables can be related to each other 
+by common information in the columns. The basic idea is that you have one or more "tables" (or "databases") and a set of rows (records) and columns (fields). 
+Other elements, like keys and indexes, help you define them further.
+
+MySQL is a database management system used in web applications, which is available for Linux, Microsoft Windows, Mac OS X, and Solaris. 
+MySQL comes with many web hosting packages. You can download MySQL Server software, pronounced “my sequel,” from the official website.
+
+MySQL is developed by MySQL AB (MySQL AB was a Swedish software company founded in 1995) and owned by Oracle Corporation.
+It is a combination of two words – ‘My’ and ‘SQL’. ‘My’ is the name of one of the co-founders Michael Wideness’s daughter and ‘SQL’ stands for Structured Query Language.
+MySQL is written in C and C++ programming languages. It supports Linux, Solaris, macOS, Windows, and FreeBSD operating systems.
