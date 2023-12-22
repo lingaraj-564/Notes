@@ -1,0 +1,36 @@
+ Tables:
+The True Heart of SQL.
+
+A table in computer programming is a data structure used to organize information, just as it is on paper. There are many different types of computer-related tables that work in several different ways. Which type of table is used depends on the type of data being compiled and what type of analysis is needed.
+
+A table is a collection of data, organized in terms of rows and columns. In DBMS terms, the table is known as a relation, and a row as a tuple.
+
+A table is an arrangement of information in rows and columns containing cells that make comparing and contrasting information easier. 
+
+A table is a simple form of data storage. A table is also considered a convenient representation of relations.
+
+Note: A table has a specified number of columns, but can have any number of rows.
+
+ 
+
+ MySQL Data Types
+
+A name and a data type define each column in a database table. The specified data type tells MySQL what kind of values it will store, how much space it require, and what type of operations it can perform with this type of data.
+
+A database table contains multiple columns with specific data types such as numeric or string. MySQL provides more data types other than just numeric and string.
+
+The data type of a column defines what value the column can hold: integer, character, date and time, binary, and so on.
+
+Each column in a database table is required to have a name and a data type.
+
+An SQL developer must decide what type of data that will be stored inside each column when creating a table. The data type is a guideline for SQL to understand what type of data is expected inside each column, and it also identifies how SQL will interact with the stored data.
+
+MySQL supports SQL data types in several categories: 
+
+numeric types,
+
+ date and time types, 
+
+string (character and byte) types, 
+
+spatial types, and JSON data types.
