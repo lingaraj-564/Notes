@@ -1,0 +1,91 @@
+Structured vs. Unstructured Data?
+What’s the Difference?
+
+When it comes to data, files can come in many different forms. There are two main types of data—structured and unstructured. 
+Each is sourced and collected in different ways, living on different types of databases, so their differences are important for data professionals.
+
+Widely used structured data :
+
+    · Spreadsheets
+    
+    · Databases that store datasets
+
+Widely used unstructured data :
+
+    • Audio files
+    
+    • Video files
+    
+    • Emails
+    
+    • Photos
+    
+    • Social media
+
+ 
+
+Unstructured data is every other type of data that is not structured. The unstructured data format can be harder to analyze. 
+But, you’ll be working with structured data most of the time. For example, if you need to analyze data about the unstructured 
+data in emails, photos, and social media sites, it will most likely be structured for analysis before you even get to it.
+
+ 
+Structured data is typically quantitative data that is organized and easily searchable. The programming language Structured Query 
+Language (SQL) is used in a relational database to “query” to input and search within structured data.
+
+As a quick refresher, structured data is data organized in a format like rows and columns. Structured data works nicely within
+a data model, which is a model that is used for organizing data elements and how they relate to one another.
+
+
+What are data elements?
+They’re Pieces of information, such as people's names, account numbers, and addresses.
+
+Data models help to keep data consistent and provide a map of how data is organized. This makes it easier for analysts and
+other stakeholders to make sense of their data and use it for business purposes.
+
+In addition to working well within data models, structured data is also useful for databases. This makes it easy for analysts 
+to enter, query, and analyze the data whenever they need to. This also helps make data visualization pretty easy because structured
+data can be applied directly to charts, graphs, pie charts, dashboards, and most other visual representations of data.
+
+Structured vs. unstructured data :
+The main difference is that structured data is defined and searchable. This includes data like dates and phone numbers. Unstructured
+data is everything else, which is more difficult to categorize or search, like photos, videos, podcasts, social media posts, and emails. 
+Most of the data in the world is unstructured data.
+
+Unstructured data tools:
+
+Unstructured data is typically supported by flexible NoSQL-friendly data lakes and non-relational databases. As a result, some of the 
+tools you might use to manage unstructured data include
+
+·       MongoDB
+
+·       Hadoop
+
+·       Azure.
+
+Structured data tools:
+
+Structured data is typically stored and used with relational databases and data warehouses supported by SQL. Some examples of tools
+used to work with structured data include:
+
+
+·      OLAP
+
+·      MySQL
+
+·      PostgreSQL
+
+·      Oracle Database
+
+Data-focused professions:
+
+·       Machine learning engineer
+
+·       Database administrator
+
+·       Data architect
+
+·       Data scientist
+
+·       Data engineer
+
+·       Data analyst
