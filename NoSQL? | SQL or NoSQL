@@ -1,0 +1,48 @@
+What is NoSQL?
+
+NoSQL, which stands for non-relational SQL is a type of database that handles unstructured data that text documents, key-value pairs, column data, and graphs. 
+Unlike relational databases like MySQL.  NoSQL doesn't store data in rules and columns and it doesn't have a fixed structure or a data model.
+
+Every record NoSQL can have a different format, which means NoSQL is flexible and suitable for applications like web and mobile apps, real-time analytics, 
+and content management systems. since these Systems do not have a fixed data structure. NoSQL is designed to be scalable across many servers. So that they can 
+process, big data efficiently.
+
+ 
+
+SQL or NoSQL
+
+SQL or NoSQL, for your database, SQL  is perfect for handling structured data that has schemas to validate integrity. So if you want consistent data,
+this is a tool for you. NoSQL is flexible which means you don't need to define schemas and this is good. If you want to rapidly develop your app without 
+any constraints, SQL databases allow you to do complex queries for advanced operations.
+
+ 
+
+NoSQL on the other hand makes it hard to do complex queries. SQL, however, is usually hard to scale, which you have to do vertically, meaning add 
+more power to one server than horizontally scale adding more servers, NoSQL has an incredible performance and lots  of situations and has really good scaling abilities.
+
+ 
+SQL was born in an era when data was mostly structured. And NoSQL was born during the internet Boom when storage began cheaper.
+
+1. Real World Application:
+
+SQL is a  perfect match for simple Use cases like a grocery store, where all data can be neatly Structured like a grocery store.
+
+ 
+
+NoSQL handles systems as complex as Amazon and  deals with millions of unique products with split-second responses.
+
+2. Flexibility & Schema:
+
+SQL can easily enter new records as long as they fit the predefined structure.
+
+
+Amazon sells millions of products and each can have different information to store. NoSQl handles them without making any changes to the NoSQl schema
+because NoSQl  is schemaless.
+
+ 
+
+3. Scalability :
+
+As the Store grows just upgrade the Server's capacity because SQL scale up.
+
+Amazon's customers are global, but they can be easily handled by NoSQl's ability to scale out.
